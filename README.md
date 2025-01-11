@@ -29,9 +29,9 @@
 ## 🔥 GitHub Stats
 <div style="display: flex; flex-direction: row;">
   <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats --> 
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=osmanshd&theme=omni&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" align="left"/>
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=osmanshd&theme=omni&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" align="left" width="400" height="200"/>
   <!-- Streak stats from https://github.com/DenverCoder1/github-readme-streak-stats -->
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanshd&theme=omni&hide_border=false" align="right"/>
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanshd&theme=omni&hide_border=false" align="right" width="400" height="200"/>
 </div>
 <p align="center">
   <!-- Top Langs from https://github.com/anuraghazra/github-readme-stats -->
