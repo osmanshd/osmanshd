@@ -1,7 +1,7 @@
 <!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=header"/> 
 
-<h1 align="center">Hey there, I'm Shahad! 👋🏾</h1>
+<h1 align="center">Hey, I'm Shahad! 👋🏾</h1>
 <p align="center">
   <a href="mailto:shahad.osman@mail.utoronto.ca"><img align="center" src="https://img.icons8.com/?size=100&id=124379&format=png&color=ff79c6" width="35" height="35"/></a>
   <a href="https://www.linkedin.com/in/shahadosman/"><img align="center" src="https://img.icons8.com/?size=100&id=60444&format=png&color=ff79c6" width="35" height="35"/></a>
@@ -22,7 +22,7 @@
 <!-- Icons from https://github.com/tandpfun/skill-icons --> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,html,js,cpp,git,androidstudio,vscode,eclipse,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,html,js,css,cpp,mysql,git,androidstudio,vscode,eclipse,figma,firebase,netlify" />
   </a>
 </p>
 
@@ -41,9 +41,9 @@
 ## 🚀 Featured Projects
 Take a sneak peek at some of my favourite projects: 
 <p align="center">
-  <a href="https://github.com/osmanshd/Planetze">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmanshd&repo=Planetze&theme=omni"/>
-  </a>
+  <a href="https://github.com/osmanshd/Planetze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmanshd&repo=Planetze&theme=omni"/></a>
+  <a href="https://github.com/osmanshd/cafe-sales-data-cleaning"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmanshd&repo=cafe-sales-data-cleaning&theme=omni"/></a>
+  <a href="https://github.com/osmanshd/snake-game-web"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmanshd&repo=snake-game-web&theme=omni"/></a>
 </p>
 
 <hr>
