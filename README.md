@@ -22,7 +22,7 @@
 <!-- Icons from https://github.com/tandpfun/skill-icons --> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,html,js,css,cpp,mysql,git,androidstudio,vscode,eclipse,figma,firebase,netlify" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,html,js,css,cpp,mysql,react,npm,git,androidstudio,vscode,eclipse,figma,firebase,netlify" />
   </a>
 </p>
 
